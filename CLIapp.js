@@ -34,7 +34,7 @@ var questions = [{
   answer:'Naruto'
 },{
   question:'Who is my favorite Actor?',
-  answer:'SRK-Shah Rukh Khan'
+  answer:'SRK'
 }];
 
 for (var i = 0; i<questions.length; i++) {
